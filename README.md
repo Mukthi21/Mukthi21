@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Mukthishree N</h1>
 <h3 align="center">A passionate front-end developer freelancer</h3>
-<img aling="right" alt="[https://media.tenor.com/w3APLkMuTX0AAAAC/computer-work.gif](https://media.tenor.com/_7JWmn89DpQAAAAC/100.gif)">
+<img aling="right" alt="https://media.tenor.com/_7JWmn89DpQAAAAC/100.gif)">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mukthi21&label=Profile%20views&color=0e75b6&style=flat" alt="b2alaji001" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mukthi21&label=Profile%20views&color=0e75b6&style=flat" alt="Mukthi21" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=b2alaji001" alt="b2alaji001" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mukthi21" alt="Mukthi21" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mukthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mukthi21" height="30" width="40" /></a>
+
 
 
 </p>
